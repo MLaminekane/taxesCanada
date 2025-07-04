@@ -9,7 +9,7 @@ const Header = () => {
             <DollarSign className="h-5 w-5 text-primary-foreground" />
           </div>
           <h1 className="text-lg font-bold text-foreground">
-            TaxCalc QC
+            TaxCan QC
           </h1>
         </div>
         <div className="ml-auto text-sm text-muted-foreground">
